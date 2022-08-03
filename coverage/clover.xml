@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1610705881195" clover="3.2.0">
+  <project timestamp="1610705881195" name="All files">
+    <metrics statements="137" coveredstatements="62" conditionals="71" coveredconditionals="15" methods="76" coveredmethods="28" elements="284" coveredelements="105" complexity="0" loc="137" ncloc="137" packages="3" files="14" classes="14"/>
+    <package name="mixins">
+      <metrics statements="8" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="2"/>
+      <file name="index.js" path="D:\codes\framework\hatech-web-component-table\packages\mixins\index.js">
+        <metrics statements="8" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="2"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="35" count="44" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="52" count="40" type="stmt"/>
+        <line num="53" count="40" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="4" type="stmt"/>
+        <line num="56" count="36" type="stmt"/>
+      </file>
+    </package>
+    <package name="table.components">
+      <metrics statements="114" coveredstatements="50" conditionals="64" coveredconditionals="9" methods="62" coveredmethods="23"/>
+      <file name="action.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\action.vue">
+        <metrics statements="6" coveredstatements="5" conditionals="4" coveredconditionals="3" methods="3" coveredmethods="2"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="48" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="49" count="4" type="stmt"/>
+        <line num="50" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+      </file>
+      <file name="cascader.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\cascader.vue">
+        <metrics statements="9" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+      <file name="checkbox.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\checkbox.vue">
+        <metrics statements="9" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="3"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="52" count="4" type="stmt"/>
+        <line num="53" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="0" type="stmt"/>
+      </file>
+      <file name="date.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\date.vue">
+        <metrics statements="11" coveredstatements="6" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="3"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="index.js" path="D:\codes\framework\hatech-web-component-table\packages\table\components\index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="input.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\input.vue">
+        <metrics statements="12" coveredstatements="6" conditionals="8" coveredconditionals="0" methods="8" coveredmethods="3"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="54" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="57" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="60" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="number.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\number.vue">
+        <metrics statements="12" coveredstatements="1" conditionals="8" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="54" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="57" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="60" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="radio.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\radio.vue">
+        <metrics statements="9" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="3"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="52" count="4" type="stmt"/>
+        <line num="53" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="0" type="stmt"/>
+      </file>
+      <file name="select.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\select.vue">
+        <metrics statements="9" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="3"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="43" count="4" type="stmt"/>
+        <line num="44" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="0" type="stmt"/>
+      </file>
+      <file name="switch.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\switch.vue">
+        <metrics statements="10" coveredstatements="6" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="50" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="text.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\text.vue">
+        <metrics statements="16" coveredstatements="1" conditionals="12" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="48" count="0" type="stmt"/>
+      </file>
+      <file name="time.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\components\time.vue">
+        <metrics statements="11" coveredstatements="6" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="3"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="table.src">
+      <metrics statements="15" coveredstatements="7" conditionals="3" coveredconditionals="2" methods="9" coveredmethods="3"/>
+      <file name="main.vue" path="D:\codes\framework\hatech-web-component-table\packages\table\src\main.vue">
+        <metrics statements="15" coveredstatements="7" conditionals="3" coveredconditionals="2" methods="9" coveredmethods="3"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
+        <line num="124" count="0" type="stmt"/>
+        <line num="128" count="1" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="147" count="90" type="cond" truecount="2" falsecount="0"/>
+        <line num="148" count="1" type="stmt"/>
+        <line num="150" count="89" type="stmt"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="170" count="0" type="stmt"/>
+        <line num="176" count="0" type="stmt"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="180" count="0" type="stmt"/>
+        <line num="191" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
